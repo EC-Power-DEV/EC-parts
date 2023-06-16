@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SPPJ320600
+D SPPJ3 Series 30 V 0.2 A 2.5 mm-Travel Compact-Sized Horizontal Type Pushbutton
+K
+F https://tech.alpsalpine.com/prod/e/html/switch/push/sppj3/sppj320600.html
+$ENDCMP
+#
+#End Doc Library
