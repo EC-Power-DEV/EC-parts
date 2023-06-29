@@ -12,4 +12,10 @@ K
 F https://tech.alpsalpine.com/prod/e/html/switch/push/sppj3/sppj320600.html
 $ENDCMP
 #
+$CMP ESDA5V3L
+D TVS Diode Array Uni-Directional ESDA5V3L Dual, 300W, SOT-23 3-Pin
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00002057.pdf
+$ENDCMP
+#
 #End Doc Library
