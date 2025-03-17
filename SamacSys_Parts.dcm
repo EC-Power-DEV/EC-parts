@@ -24,4 +24,10 @@ K
 F https://www.amphenol-cs.com/micro-usb-101181940001lf.html
 $ENDCMP
 #
+$CMP SN74AC08DBR
+D Quadruple 2-Input Positive-AND Gates
+K
+F http://www.ti.com/lit/gpn/sn74ac08
+$ENDCMP
+#
 #End Doc Library
