@@ -40,9 +40,9 @@
   (pad MH4 thru_hole circle (at 2.500 -2.35) (size 1.515 1.515) (drill 1.01) (layers *.Cu *.Mask))
   (pad MP1 smd rect (at -1.000 0.35 0) (size 1.250 1.550) (layers F.Cu F.Paste F.Mask))
   (pad MP2 smd rect (at 1.000 0.35 0) (size 1.250 1.550) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\egnedata\\git\\Kicad_libs\\SamacSys_Parts.3dshapes\\10118194-0001LF.stp"
-    (at (xyz 0 0 0))
+  (model "C:\\egnedata\\git\\EC-parts\\SamacSys_Parts.3dshapes\\10118194-0001LF.stp"
+    (at (xyz -2.9527559055118 0.10866141694737 -0.01417322890965))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
