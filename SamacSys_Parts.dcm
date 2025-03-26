@@ -36,4 +36,10 @@ K
 F http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf
 $ENDCMP
 #
+$CMP VLDY1235R
+D Standard LEDs - SMD Yel 589nm 18,000mcd 2.3V Rev Gull Wing
+K
+F https://componentsearchengine.com/Datasheets/1/VLDY1235R.pdf
+$ENDCMP
+#
 #End Doc Library
