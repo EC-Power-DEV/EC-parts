@@ -36,6 +36,12 @@ K
 F http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf
 $ENDCMP
 #
+$CMP 74HC245D
+D Bus Transceivers 74HC CMOS logic IC series SOIC14 Octal Bus Transceiver (3-State)
+K
+F https://eu.mouser.com/datasheet/2/408/74HC245D_datasheet_en_20160804-959204.pdf
+$ENDCMP
+#
 $CMP VLDY1235R
 D Standard LEDs - SMD Yel 589nm 18,000mcd 2.3V Rev Gull Wing
 K
